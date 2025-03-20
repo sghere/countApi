@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "postgres": "^3.4.5"
+  },
+  "name": "countapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "bun server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sghere/countApi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sghere/countApi/issues"
+  },
+  "homepage": "https://github.com/sghere/countApi#readme",
+  "description": ""
+}
